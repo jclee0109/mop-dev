@@ -2,4 +2,3 @@
 def chanjuicy():
     print("소개 : 제 이름은 찬주씨입니다."+ "\n" + "아무말 : mop 화이팅!")
     print("소개 : 제 이름은 Juchan Lee 입니다." + "\n" + "아무말 : 나는 git 마스터가 될거야!!!!!")
-    print("hello")
